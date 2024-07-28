@@ -1,0 +1,17 @@
+- Project Steps
+   - libraries.py contains number of libraries used in the project.
+   - Data Loading ✔
+	(Explained in Data Loading and loadingdata.py)
+   - Data Cleaning  ✔
+	(Explained in Data Processing.ipynb)
+   - Data Exploration ✔
+	(Explained in Data Exploration&Analysis.ipynb)
+   - Visualization ✔
+	(Explained in DataVisualzation.ipynb)
+   - Dask Comparison ✔
+	(Explained in Comparison.py which runs baseCleaner.py)
+   - Reporting
+	(Explained in Report.pdf)
+   - Dashboard ✔
+	(Explained in dashboard.py)
+		
